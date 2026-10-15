@@ -1,0 +1,6 @@
+{
+  "name": "WealthPath: Financial Planning Board Game Kit",
+  "description": "Comprehensive academic project blueprint, print-ready asset kit, interactive board track, deck cards, player financial ledger, and rubric for a 15-mark university finance course.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
